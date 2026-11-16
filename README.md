@@ -11,3 +11,5 @@ Reading is one of my favourite hobbies. It helps me gain knowledge, improve my v
 - Improve imagination and creativity.
 - Make productive use of free time.
 
+##This is me updating and adding a feature branch 
+this part tells us how to create a branch and editing a file that will create a pull request which we will then accept afterwards.
